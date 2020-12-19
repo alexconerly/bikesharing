@@ -7,6 +7,11 @@ The purpose of this project was to perform an analysis using Tableau software on
 ---------------------------------------------
 ## Resources:
 
+Click the following for the Tableau Workbook:
+
+ [Tableau Workbook](https://public.tableau.com/profile/alex.conerly#!/vizhome/CitiBike_16083508459960/Citi_Bike_Story)
+
+
 Data Sources: 
 
 www.citybikenyc.com: 

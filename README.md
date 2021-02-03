@@ -1,5 +1,7 @@
 # Bikesharing with Tableau
 
+![](Resources/bikes_pub_domain_image.png)
+
 ## Overview of Project:
 
 The purpose of this project was to perform an analysis using Tableau software on the company Citibike's New York City bikesharing data in order to create visualizations of findings to aid in pitching a potentially similar bikesharing business proposal in Des Moines, Iowa to investors.  The analysis process involved downloading a CSV file from the Citybike website, a small amount of converting datatypes and formatting in Python, importing the data into Tableau, and using the Tableau software to create meaningful visualizations about the data.  All of the NYC findings are analyzed below for benchnmarking the business model for the bikesharing startup proposal.
